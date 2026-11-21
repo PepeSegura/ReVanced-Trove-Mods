@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "updated": "2026-11-21",
+  "mods": [
+    {
+      "title": "ReVanced Inventory",
+      "old": [
+        "Redesigned Inventory"
+      ],
+      "public": true,
+      "screens_es": "Inventario y cofres",
+      "screens_en": "Inventory and chests",
+      "desc_es": "Inventario y cofres con estilo de tarjeta. Botón de ordenar también en los cofres, buscador (escribe en el chat) que salta a la pestaña correcta y clic derecho para guardar en el cofre.",
+      "desc_en": "Card-style inventory and chests. Sort button in chests too, a search (type in the chat) that jumps to the right tab, and right click to store items in the chest.",
+      "stats": false,
+      "file": "mods/ReVanced Inventory.tmod",
+      "sha1": "00B462598FE7FCDCFFDA5FC55E20242DBAB7026A",
+      "size": 262254,
+      "files": [
+        "ui/inventory.swf"
+      ],
+      "preview": "previews/revanced_inventory.png"
+    },
+    {
+      "title": "ReVanced Chat",
+      "old": [
+        "Redesigned Chat"
+      ],
+      "public": true,
+      "screens_es": "Chat",
+      "screens_en": "Chat",
+      "desc_es": "Chat con emojis y pestañas. Con el buscador del inventario o de la lista de amigos abierto, lo que escribes en el chat filtra esa ventana (o /bus texto).",
+      "desc_en": "Chat with emojis and tabs. With the inventory or friend list search open, what you type in the chat filters that window (or /bus text).",
+      "stats": false,
+      "file": "mods/ReVanced Chat.tmod",
+      "sha1": "F48A240BC0CF67C05D82789136539182AC730830",
+      "size": 8899272,
+      "files": [
+        "ui/chat.swf"
+      ]
+    },
+    {
+      "title": "ReVanced Tooltip",
+      "old": [
+        "Redesigned Tooltip"
+      ],
+      "public": true,
+      "screens_es": "Descripción de objetos",
+      "screens_en": "Item tooltips",
+      "desc_es": "Descripción de objetos en una tarjeta clara: stats, habilidad, icono del objeto y comparación con lo que llevas puesto, en el idioma del juego. Los allies muestran la XP.",
+      "desc_en": "Item tooltips as a clear card: stats, ability, item icon and comparison with what you wear, in the game language. Allies show their XP.",
+      "stats": false,
+      "file": "mods/ReVanced Tooltip.tmod",
+      "sha1": "CD3477DFE8B42362430BD83B23AF77997A4437A1",
+      "size": 182836,
+      "files": [
+        "ui/revanced tooltip.cfg",
+        "ui/tooltip.swf"
+      ],
+      "preview": "previews/revanced_tooltip.png"
+    },
+    {
+      "title": "ReVanced Loot Collector",
+      "old": [
+        "Redesigned Loot Collector"
+      ],
+      "public": true,
+      "screens_es": "Recolector de botín",
+      "screens_en": "Loot collector",
+      "desc_es": "Botón «Keep new»: los objetos que aún no tienes en tu colección se bloquean para que «Collect All» no los convierta.",
+      "desc_en": "“Keep new” button: items not in your collection yet are locked so Collect All leaves them.",
+      "stats": false,
+      "file": "mods/ReVanced Loot Collector.tmod",
+      "sha1": "E0158BF09B83891A8662FF040277E62E2F38640F",
+      "size": 204109,
+      "files": [
+        "ui/lootcollector.swf",
+        "ui/revanced loot collector.cfg",
+        "ui/zakros ui - loot collector license.txt"
+      ],
+      "preview": "previews/revanced_loot_collector.png"
+    },
+    {
+      "title": "ReVanced Tiny Quest",
+      "old": [
+        "Redesigned Tiny Quest"
+      ],
+      "public": true,
+      "screens_es": "Tiny Quest",
+      "screens_en": "Tiny Quest",
+      "desc_es": "La mesa de misiones y el panel de Tiny Quest muestran la XP que gana cada ally con la misión y si sube de nivel.",
+      "desc_en": "The quest table and the Tiny Quest panel show the XP each ally gets from a quest and whether it levels up.",
+      "stats": false,
+      "file": "mods/ReVanced Tiny Quest.tmod",
+      "sha1": "E4FA9BD3B0B8EBBD4777E3CAA95E811214E12EAA",
+      "size": 172578,
+      "files": [
+        "ui/revanced tiny quest.cfg",
+        "ui/tinyquestofferui.swf",
+        "ui/tinyquestui.swf"
+      ],
+      "preview": "previews/revanced_tiny_quest.png"
+    },
+    {
+      "title": "ReVanced Auto Tome Swap",
+      "old": [
+        "Redesigned Auto Tome Swap",
+        "Auto Tome Swap"
+      ],
+      "public": true,
+      "screens_es": "Barra de tomo, menú y Colecciones",
+      "screens_en": "Tome bar, menu and Collections",
+      "desc_es": "Cuando el tomo equipado se llena, equipa el siguiente solo: primero los legendarios, y tus favoritos en el orden de Colecciones.",
+      "desc_en": "When the equipped tome fills up, the next one is equipped by itself: legendary tomes first, your favourites in the Collections order.",
+      "stats": false,
+      "file": "mods/ReVanced Auto Tome Swap.tmod",
+      "sha1": "3BBF31610C348D144ADAC19909EBE6713D198925",
+      "size": 1108479,
+      "files": [
+        "ui/collectionsnew.swf",
+        "ui/navigationmenu.swf",
+        "ui/starbar.swf"
+      ],
+      "preview": "previews/revanced_auto_tome_swap.png"
+    },
+    {
+      "title": "ReVanced Auto Accept",
+      "old": [
+        "Redesigned Auto Accept"
+      ],
+      "public": true,
+      "screens_es": "Avisos del juego y ajustes",
+      "screens_en": "Game prompts and settings",
+      "desc_es": "Acepta o rechaza los avisos del juego (invitaciones de grupo, club, intercambio…) según tus reglas, usando los candados de la lista de amigos. Ventana de ajustes rediseñada.",
+      "desc_en": "Accepts or declines game prompts (party, club, trade invites…) by your rules, using the friend list locks. Redesigned settings window.",
+      "stats": false,
+      "file": "mods/ReVanced Auto Accept.tmod",
+      "sha1": "0E509FD692E5EFA2E49F46311CC30BA2A2E59A7B",
+      "size": 273404,
+      "files": [
+        "ui/cornerstone.swf",
+        "ui/messagedialog.swf"
+      ],
+      "preview": "previews/revanced_auto_accept.png"
+    },
+    {
+      "title": "ReVanced Loot Tooltips",
+      "old": [
+        "Redesigned Loot Tooltips"
+      ],
+      "public": true,
+      "screens_es": "Botín del suelo",
+      "screens_en": "Floor loot",
+      "desc_es": "Oculta las descripciones del equipo que cae al suelo, salvo los objetos que aún no tienes en tu colección. Efecto de botín de cristal.",
+      "desc_en": "Hides the tooltips of gear on the floor, except items you do not have in your collection yet. Crystal loot effect.",
+      "stats": false,
+      "file": "mods/ReVanced Loot Tooltips.tmod",
+      "sha1": "5D32E42435F1C3F80B0979D20C05CB0DD0C3AAE7",
+      "size": 206357,
+      "files": [
+        "particles/vfx/particles/item_loot_spawn_lvl_01.pkfx",
+        "particles/vfx/particles/item_loot_spawn_lvl_02.pkfx",
+        "particles/vfx/particles/item_loot_spawn_lvl_03.pkfx",
+        "particles/vfx/particles/item_loot_spawn_lvl_04.pkfx",
+        "particles/vfx/particles/item_loot_spawn_lvl_05.pkfx",
+        "particles/vfx/particles/item_loot_spawn_lvl_06.pkfx",
+        "particles/vfx/particles/item_loot_spawn_lvl_07.pkfx",
+        "particles/vfx/particles/item_loot_spawn_lvl_08.pkfx",
+        "particles/vfx/particles/item_loot_spawn_lvl_09.pkfx",
+        "particles/vfx/particles/item_loot_spawn_lvl_10_1.pkfx",
+        "particles/vfx/particles/item_treasurechest_spawn_01.pkfx",
+        "particles/vfx/particles/weapon_aura_bow_acid_01.pkfx",
+        "particles/vfx/particles/weapon_aura_melee_acid_01.pkfx",
+        "particles/vfx/particles/weapon_aura_pistol_acid_01.pkfx",
+        "particles/vfx/particles/weapon_aura_spear_acid_01.pkfx",
+        "particles/vfx/particles/weapon_aura_staff_acid_01.pkfx",
+        "ui/worldtooltip.swf"
+      ],
+      "preview": "previews/revanced_loot_tooltips.png"
+    },
+    {
+      "title": "ReVanced Hotbar",
+      "old": [
+        "Zakros UI - Hotbar"
+      ],
+      "public": true,
+      "screens_es": "Barra inferior",
+      "screens_en": "Bottom bar",
+      "desc_es": "Barra inferior rediseñada: vida y energía con sus números, segundos de recarga en cada hueco y rareza bajo cada objeto. Pasa el icono del objeto a la descripción.",
+      "desc_en": "Redesigned bottom bar: health and energy with their numbers, cooldown seconds on each slot and rarity under each item. Sends the item icon to the tooltip.",
+      "stats": false,
+      "file": "mods/ReVanced Hotbar.tmod",
+      "sha1": "4899DC70FD988F5315224DA78221FD8A235DA8E0",
+      "size": 78007,
+      "files": [
+        "ui/armorhud.swf",
+        "ui/hotbar.swf",
+        "ui/revanced hotbar.cfg"
+      ],
+      "preview": "previews/revanced_hotbar.png"
+    },
+    {
+      "title": "ReVanced Charsheet",
+      "old": [
+        "Zakros UI - Gem Lens Charsheet"
+      ],
+      "public": true,
+      "screens_es": "Hoja de personaje y gemas",
+      "screens_en": "Character sheet and gems",
+      "desc_es": "Todos tus stats a la vez y el coeficiente que el juego no enseña; en las gemas, cómo de buena es cada tirada. Guarda nombre, PR y mastery para las tarjetas del launcher.",
+      "desc_en": "All your stats at once and the coefficient the game hides; on gems, how good each roll is. Saves name, PR and mastery for the launcher cards.",
+      "stats": true,
+      "file": "mods/ReVanced Charsheet.tmod",
+      "sha1": "697842EE305DEC4797DADBA0EB582547795B3BEA",
+      "size": 305234,
+      "files": [
+        "ui/charsheet.swf",
+        "ui/gems.swf",
+        "ui/revanced charsheet.cfg"
+      ],
+      "preview": "previews/revanced_charsheet.png"
+    },
+    {
+      "title": "ReVanced Player HUD",
+      "old": [
+        "Wolf's Obscure UI - PlayerHud (Pink-Red gradient)"
+      ],
+      "public": true,
+      "screens_es": "Barra del jugador",
+      "screens_en": "Player bar",
+      "desc_es": "Barra del jugador con degradado rosa-rojo: PR, nivel de clase y siguiente nivel prime. Guarda tu PR y clase para las tarjetas del launcher.",
+      "desc_en": "Player bar with a pink/red gradient: PR, class level and next prime level. Saves your PR and class for the launcher cards.",
+      "stats": true,
+      "file": "mods/ReVanced Player HUD.tmod",
+      "sha1": "C854BD571A068A50DBA81D3753FE743CE81C241C",
+      "size": 456064,
+      "files": [
+        "ui/playerhud.swf"
+      ],
+      "preview": "previews/revanced_player_hud.png"
+    }
+  ]
+}
