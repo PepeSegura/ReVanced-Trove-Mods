@@ -19,6 +19,8 @@
       "files": [
         "ui/inventory.swf"
       ],
+      "cfg": "cfgs/ReVanced Inventory.cfg",
+      "cfg_sha1": "D1D2B077CEB9059329E65FDF543F6BE2AD249C31",
       "preview": "previews/revanced_inventory.png"
     },
     {
@@ -37,7 +39,9 @@
       "size": 8899272,
       "files": [
         "ui/chat.swf"
-      ]
+      ],
+      "cfg": "cfgs/ReVanced Chat.cfg",
+      "cfg_sha1": "886F71D8E44DE1048D8325E62D9CE2EA34065A3A"
     },
     {
       "title": "ReVanced Tooltip",
@@ -57,6 +61,8 @@
         "ui/revanced tooltip.cfg",
         "ui/tooltip.swf"
       ],
+      "cfg": "cfgs/ReVanced Tooltip.cfg",
+      "cfg_sha1": "766BF26C9B0DB358DF7D1BD1D2C7114B655CE0F3",
       "preview": "previews/revanced_tooltip.png"
     },
     {
@@ -78,6 +84,8 @@
         "ui/revanced loot collector.cfg",
         "ui/zakros ui - loot collector license.txt"
       ],
+      "cfg": "cfgs/ReVanced Loot Collector.cfg",
+      "cfg_sha1": "012E2A3A504D485D592B0635F120A838C9EDF864",
       "preview": "previews/revanced_loot_collector.png"
     },
     {
@@ -99,6 +107,8 @@
         "ui/tinyquestofferui.swf",
         "ui/tinyquestui.swf"
       ],
+      "cfg": "cfgs/ReVanced Tiny Quest.cfg",
+      "cfg_sha1": "C5DE6C62E4749E0E53C2C9249A44E33B4A8BD6ED",
       "preview": "previews/revanced_tiny_quest.png"
     },
     {
@@ -121,6 +131,8 @@
         "ui/navigationmenu.swf",
         "ui/starbar.swf"
       ],
+      "cfg": "cfgs/ReVanced Auto Tome Swap.cfg",
+      "cfg_sha1": "76FBEFAF5398EE842E128513ED6956A7739B19BE",
       "preview": "previews/revanced_auto_tome_swap.png"
     },
     {
@@ -141,6 +153,8 @@
         "ui/cornerstone.swf",
         "ui/messagedialog.swf"
       ],
+      "cfg": "cfgs/ReVanced Auto Accept.cfg",
+      "cfg_sha1": "0B278962E310F28D152A38CA5A1F8D4F819F34EB",
       "preview": "previews/revanced_auto_accept.png"
     },
     {
@@ -176,6 +190,8 @@
         "particles/vfx/particles/weapon_aura_staff_acid_01.pkfx",
         "ui/worldtooltip.swf"
       ],
+      "cfg": "cfgs/ReVanced Loot Tooltips.cfg",
+      "cfg_sha1": "ADC83B19E793491B1C6EA0FD8B46CD9F32E592FC",
       "preview": "previews/revanced_loot_tooltips.png"
     },
     {
@@ -197,6 +213,8 @@
         "ui/hotbar.swf",
         "ui/revanced hotbar.cfg"
       ],
+      "cfg": "cfgs/ReVanced Hotbar.cfg",
+      "cfg_sha1": "A15A564B7A40AA4038E55A403A02465532A28B4E",
       "preview": "previews/revanced_hotbar.png"
     },
     {
@@ -218,6 +236,8 @@
         "ui/gems.swf",
         "ui/revanced charsheet.cfg"
       ],
+      "cfg": "cfgs/ReVanced Charsheet.cfg",
+      "cfg_sha1": "FBA8E25114F94324DE58AC6019590F555552B774",
       "preview": "previews/revanced_charsheet.png"
     },
     {
@@ -237,6 +257,8 @@
       "files": [
         "ui/playerhud.swf"
       ],
+      "cfg": "cfgs/ReVanced Player HUD.cfg",
+      "cfg_sha1": "4ADE5AEA84947BD30D3D3726DEA10D58EE51326F",
       "preview": "previews/revanced_player_hud.png"
     }
   ]

@@ -23,3 +23,5 @@ Mods de interfaz para Trove, que instala y actualiza [ReVanced Trove Launcher](h
 | ReVanced Player HUD | Barra del jugador | Barra del jugador con degradado rosa-rojo: PR, nivel de clase y siguiente nivel prime. Guarda tu PR y clase para las tarjetas del launcher. |
 
 `pack.json` lista cada mod con su SHA1: el launcher descarga un mod solo si falta o ha cambiado.
+
+`cfgs/` tiene los ajustes por defecto, limpios, de los mods que los usan (cópialos en `%APPDATA%\Trove\ModCfgs` con Trove cerrado si instalas a mano; el launcher lo hace solo y nunca sustituye un cfg que ya tengas). El juego solo le pasa un ajuste a un mod si su clave ya existe en ese archivo.

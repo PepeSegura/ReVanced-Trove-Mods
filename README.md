@@ -23,3 +23,5 @@ UI mods for Trove, installed and updated by [ReVanced Trove Launcher](https://gi
 | ReVanced Player HUD | Player bar | Player bar with a pink/red gradient: PR, class level and next prime level. Saves your PR and class for the launcher cards. |
 
 `pack.json` lists every mod with its SHA1: the launcher downloads a mod only when it is missing or changed.
+
+`cfgs/` has clean default settings for the mods that use them (copy to `%APPDATA%\Trove\ModCfgs` with Trove closed if you install by hand; the launcher does it for you and never replaces a cfg you already have). The game only passes a setting to a mod when its key already exists in that file.
