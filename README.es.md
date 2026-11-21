@@ -15,7 +15,7 @@ Mods de interfaz para Trove, que instala y actualiza [ReVanced Trove Launcher](h
 | ReVanced Tooltip | Descripción de objetos | Descripción de objetos en una tarjeta clara: stats, habilidad, icono del objeto y comparación con lo que llevas puesto, en el idioma del juego. Los allies muestran la XP. |
 | ReVanced Loot Collector | Recolector de botín | Botón «Keep new»: los objetos que aún no tienes en tu colección se bloquean para que «Collect All» no los convierta. |
 | ReVanced Tiny Quest | Tiny Quest | La mesa de misiones y el panel de Tiny Quest muestran la XP que gana cada ally con la misión y si sube de nivel. |
-| ReVanced Auto Tome Swap | Barra de tomo, menú y Colecciones | Cuando el tomo equipado se llena, equipa el siguiente solo: primero los legendarios, y tus favoritos en el orden de Colecciones. |
+| ReVanced Auto Tome Swap | Barra de tomo, menú y Colecciones | Cuando el tomo equipado se llena, equipa el siguiente solo: primero los legendarios, y tus favoritos en el orden de Colecciones. Además, en cada mundo nuevo vuelve a equipar tu montura, alas y barco (arregla los mods de monturas que se quedan bugueados). |
 | ReVanced Auto Accept | Avisos del juego y ajustes | Acepta o rechaza los avisos del juego (invitaciones de grupo, club, intercambio…) según tus reglas, usando los candados de la lista de amigos. Ventana de ajustes rediseñada. |
 | ReVanced Loot Tooltips | Botín del suelo | Oculta las descripciones del equipo que cae al suelo, salvo los objetos que aún no tienes en tu colección. Efecto de botín de cristal. |
 | ReVanced Hotbar | Barra inferior | Barra inferior rediseñada: vida y energía con sus números, segundos de recarga en cada hueco y rareza bajo cada objeto. Pasa el icono del objeto a la descripción. |

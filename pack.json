@@ -120,19 +120,19 @@
       "public": true,
       "screens_es": "Barra de tomo, menú y Colecciones",
       "screens_en": "Tome bar, menu and Collections",
-      "desc_es": "Cuando el tomo equipado se llena, equipa el siguiente solo: primero los legendarios, y tus favoritos en el orden de Colecciones.",
-      "desc_en": "When the equipped tome fills up, the next one is equipped by itself: legendary tomes first, your favourites in the Collections order.",
+      "desc_es": "Cuando el tomo equipado se llena, equipa el siguiente solo: primero los legendarios, y tus favoritos en el orden de Colecciones. Además, en cada mundo nuevo vuelve a equipar tu montura, alas y barco (arregla los mods de monturas que se quedan bugueados).",
+      "desc_en": "When the equipped tome fills up, the next one is equipped by itself: legendary tomes first, your favourites in the Collections order. It also re-equips your mount, wings and ship on every new world (fixes mount mods that stay bugged).",
       "stats": false,
       "file": "mods/ReVanced Auto Tome Swap.tmod",
-      "sha1": "3BBF31610C348D144ADAC19909EBE6713D198925",
-      "size": 1108479,
+      "sha1": "36373C25AB1D4BBA13173D48020B97D5CCAD9961",
+      "size": 1113292,
       "files": [
         "ui/collectionsnew.swf",
         "ui/navigationmenu.swf",
         "ui/starbar.swf"
       ],
       "cfg": "cfgs/ReVanced Auto Tome Swap.cfg",
-      "cfg_sha1": "76FBEFAF5398EE842E128513ED6956A7739B19BE",
+      "cfg_sha1": "C371CE9403B75BC6D39F4E2D1BFE1CC11DF460FA",
       "preview": "previews/revanced_auto_tome_swap.png"
     },
     {
