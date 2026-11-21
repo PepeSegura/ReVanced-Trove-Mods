@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/lang-English-2b7cff?style=for-the-badge" alt="English"></a>
+  <a href="README.es.md"><img src="https://img.shields.io/badge/idioma-Español-555?style=for-the-badge" alt="Español"></a>
+</p>
+
 # ReVanced Trove Mods
 
 UI mods for Trove, installed and updated by [ReVanced Trove Launcher](https://github.com/PepeSegura/ReVanced-TroveLauncher)
