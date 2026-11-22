@@ -21,6 +21,7 @@ UI mods for Trove, installed and updated by [ReVanced Trove Launcher](https://gi
 | ReVanced Hotbar | Bottom bar | Redesigned bottom bar: health and energy with their numbers, cooldown seconds on each slot and rarity under each item. Sends the item icon to the tooltip. |
 | ReVanced Charsheet | Character sheet and gems | All your stats at once and the coefficient the game hides; on gems, how good each roll is. Saves name, PR and mastery for the launcher cards. |
 | ReVanced Player HUD | Player bar | Player bar with a pink/red gradient: PR, class level and next prime level. Saves your PR and class for the launcher cards. |
+| ReVanced Delve Chunks | Compass and world map | The delve's rooms and chunks (2x2 rooms, like delve-maps): each room is numbered as you walk in, on a panel in the bottom-right corner and on the world map, with your position and facing. Based on Zakros UI - Compass and Zakros UI - Map and Minimap by Zakros (Aallyn), with his permission; replaces both. |
 
 `pack.json` lists every mod with its SHA1: the launcher downloads a mod only when it is missing or changed.
 

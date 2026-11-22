@@ -21,6 +21,7 @@ Mods de interfaz para Trove, que instala y actualiza [ReVanced Trove Launcher](h
 | ReVanced Hotbar | Barra inferior | Barra inferior rediseñada: vida y energía con sus números, segundos de recarga en cada hueco y rareza bajo cada objeto. Pasa el icono del objeto a la descripción. |
 | ReVanced Charsheet | Hoja de personaje y gemas | Todos tus stats a la vez y el coeficiente que el juego no enseña; en las gemas, cómo de buena es cada tirada. Guarda nombre, PR y mastery para las tarjetas del launcher. |
 | ReVanced Player HUD | Barra del jugador | Barra del jugador con degradado rosa-rojo: PR, nivel de clase y siguiente nivel prime. Guarda tu PR y clase para las tarjetas del launcher. |
+| ReVanced Delve Chunks | Brújula y mapa del mundo | Las salas y los chunks (2x2 salas) de la delve, como en delve-maps: cada sala se numera al entrar, en un panel abajo a la derecha y en el mapa del mundo, con tu posición y hacia dónde miras. Basado en Zakros UI - Compass y Zakros UI - Map and Minimap de Zakros (Aallyn), con su permiso; sustituye a los dos. |
 
 `pack.json` lista cada mod con su SHA1: el launcher descarga un mod solo si falta o ha cambiado.
 

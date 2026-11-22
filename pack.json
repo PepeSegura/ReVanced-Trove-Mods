@@ -85,7 +85,7 @@
         "ui/zakros ui - loot collector license.txt"
       ],
       "cfg": "cfgs/ReVanced Loot Collector.cfg",
-      "cfg_sha1": "012E2A3A504D485D592B0635F120A838C9EDF864",
+      "cfg_sha1": "C99AFF4349C1D9270A17FA355F0415CA07A4C4F9",
       "preview": "previews/revanced_loot_collector.png"
     },
     {
@@ -108,7 +108,7 @@
         "ui/tinyquestui.swf"
       ],
       "cfg": "cfgs/ReVanced Tiny Quest.cfg",
-      "cfg_sha1": "C5DE6C62E4749E0E53C2C9249A44E33B4A8BD6ED",
+      "cfg_sha1": "C87E186C7A88482868D8D136E9769BEDBB3B6B76",
       "preview": "previews/revanced_tiny_quest.png"
     },
     {
@@ -214,7 +214,7 @@
         "ui/revanced hotbar.cfg"
       ],
       "cfg": "cfgs/ReVanced Hotbar.cfg",
-      "cfg_sha1": "A15A564B7A40AA4038E55A403A02465532A28B4E",
+      "cfg_sha1": "770DD9918A3788F822CEB464C0B30DD900A850F3",
       "preview": "previews/revanced_hotbar.png"
     },
     {
@@ -237,7 +237,7 @@
         "ui/revanced charsheet.cfg"
       ],
       "cfg": "cfgs/ReVanced Charsheet.cfg",
-      "cfg_sha1": "FBA8E25114F94324DE58AC6019590F555552B774",
+      "cfg_sha1": "2EFCDBC741741DC5D70890D387E8E682D2F22A3A",
       "preview": "previews/revanced_charsheet.png"
     },
     {
@@ -260,6 +260,29 @@
       "cfg": "cfgs/ReVanced Player HUD.cfg",
       "cfg_sha1": "4ADE5AEA84947BD30D3D3726DEA10D58EE51326F",
       "preview": "previews/revanced_player_hud.png"
+    },
+    {
+      "title": "ReVanced Delve Chunks",
+      "old": [
+        "Zakros UI - Compass",
+        "Zakros UI - Map and Minimap"
+      ],
+      "public": true,
+      "screens_es": "Brújula y mapa del mundo",
+      "screens_en": "Compass and world map",
+      "desc_es": "Las salas y los chunks (2x2 salas) de la delve, como en delve-maps: cada sala se numera al entrar, en un panel abajo a la derecha y en el mapa del mundo, con tu posición y hacia dónde miras. Basado en Zakros UI - Compass y Zakros UI - Map and Minimap de Zakros (Aallyn), con su permiso; sustituye a los dos.",
+      "desc_en": "The delve's rooms and chunks (2x2 rooms, like delve-maps): each room is numbered as you walk in, on a panel in the bottom-right corner and on the world map, with your position and facing. Based on Zakros UI - Compass and Zakros UI - Map and Minimap by Zakros (Aallyn), with his permission; replaces both.",
+      "stats": false,
+      "file": "mods/ReVanced Delve Chunks.tmod",
+      "sha1": "02BFE815BA37E48CA410EA97256917A5F7AFB6F6",
+      "size": 375170,
+      "files": [
+        "ui/compass.swf",
+        "ui/map.swf"
+      ],
+      "cfg": "cfgs/ReVanced Delve Chunks.cfg",
+      "cfg_sha1": "D9D2FDAC11913137E015E3095751D79477D7BD8C",
+      "preview": "previews/revanced_delve_chunks.png"
     }
   ]
 }
