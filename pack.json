@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "mods": [
     {
       "title": "ReVanced Inventory",
@@ -124,8 +124,8 @@
       "desc_en": "When the equipped tome fills up, the next one is equipped by itself: legendary tomes first, your favourites in the Collections order. It also re-equips your mount, wings and ship on every new world (fixes mount mods that stay bugged).",
       "stats": false,
       "file": "mods/ReVanced Auto Tome Swap.tmod",
-      "sha1": "36373C25AB1D4BBA13173D48020B97D5CCAD9961",
-      "size": 1113292,
+      "sha1": "5982B2DD4A411D6EE0B3BD1781F57A0AAED52262",
+      "size": 1113316,
       "files": [
         "ui/collectionsnew.swf",
         "ui/navigationmenu.swf",
