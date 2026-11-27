@@ -16,10 +16,10 @@ UI mods for Trove, installed and updated by [ReVanced Trove Launcher](https://gi
 | ReVanced Loot Collector | Loot collector | “Keep new” button: items not in your collection yet are locked so Collect All leaves them. |
 | ReVanced Tiny Quest | Tiny Quest | The quest table and the Tiny Quest panel show the XP each ally gets from a quest and whether it levels up. |
 | ReVanced Auto Tome Swap | Tome bar, menu and Collections | When the equipped tome fills up, the next one is equipped by itself: legendary tomes first, your favourites in the Collections order. It also re-equips your mount, wings and ship on every new world (fixes mount mods that stay bugged). |
-| ReVanced Auto Accept | Game prompts and settings | Accepts or declines game prompts (party, club, trade invites…) by your rules, using the friend list locks. Redesigned settings window. |
+| ReVanced Auto Accept | Game prompts and settings | Accepts or declines game prompts (party, club, trade invites…) instantly by your rules (the prompt never even shows), using the friend list locks. Redesigned settings window. |
 | ReVanced Loot Tooltips | Floor loot | Hides the tooltips of gear on the floor, except items you do not have in your collection yet. Crystal loot effect. |
 | ReVanced Hotbar | Bottom bar | Redesigned bottom bar: health and energy with their numbers, cooldown seconds on each slot and rarity under each item. Sends the item icon to the tooltip. |
-| ReVanced Charsheet | Character sheet and gems | All your stats at once and the coefficient the game hides; on gems, how good each roll is. Saves name, PR and mastery for the launcher cards. |
+| ReVanced Charsheet | Character sheet and gems | All your stats at once and the coefficient the game hides; on gems, how good each roll is. Saves each character's name, PR and mastery for the launcher cards (also with two accounts open at once). |
 | ReVanced Player HUD | Player bar | Player bar with a pink/red gradient: PR, class level and next prime level. Saves your PR and class for the launcher cards. |
 | ReVanced Delve Chunks | Compass and world map | The delve's rooms and chunks (2x2 rooms, like delve-maps): each room is numbered as you walk in, on a panel in the bottom-right corner and on the world map, with your position and facing. Based on Zakros UI - Compass and Zakros UI - Map and Minimap by Zakros (Aallyn), with his permission; replaces both. |
 

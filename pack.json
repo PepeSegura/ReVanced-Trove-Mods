@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-23",
+  "updated": "2026-11-28",
   "mods": [
     {
       "title": "ReVanced Inventory",
@@ -14,8 +14,8 @@
       "desc_en": "Card-style inventory and chests. Sort button in chests too, a search (type in the chat) that jumps to the right tab, and right click to store items in the chest.",
       "stats": false,
       "file": "mods/ReVanced Inventory.tmod",
-      "sha1": "00B462598FE7FCDCFFDA5FC55E20242DBAB7026A",
-      "size": 262254,
+      "sha1": "DD9819AAC2C8F77397A959ECBEEC284E445F7F41",
+      "size": 262286,
       "files": [
         "ui/inventory.swf"
       ],
@@ -35,8 +35,8 @@
       "desc_en": "Chat with emojis and tabs. With the inventory or friend list search open, what you type in the chat filters that window (or /bus text).",
       "stats": false,
       "file": "mods/ReVanced Chat.tmod",
-      "sha1": "F48A240BC0CF67C05D82789136539182AC730830",
-      "size": 8899272,
+      "sha1": "94133929511C384C1C3032D41BC6968CECB82238",
+      "size": 8899284,
       "files": [
         "ui/chat.swf"
       ],
@@ -143,12 +143,12 @@
       "public": true,
       "screens_es": "Avisos del juego y ajustes",
       "screens_en": "Game prompts and settings",
-      "desc_es": "Acepta o rechaza los avisos del juego (invitaciones de grupo, club, intercambio…) según tus reglas, usando los candados de la lista de amigos. Ventana de ajustes rediseñada.",
-      "desc_en": "Accepts or declines game prompts (party, club, trade invites…) by your rules, using the friend list locks. Redesigned settings window.",
+      "desc_es": "Acepta o rechaza los avisos del juego (invitaciones de grupo, club, intercambio…) al instante según tus reglas (el aviso ni llega a aparecer), usando los candados de la lista de amigos. Ventana de ajustes rediseñada.",
+      "desc_en": "Accepts or declines game prompts (party, club, trade invites…) instantly by your rules (the prompt never even shows), using the friend list locks. Redesigned settings window.",
       "stats": false,
       "file": "mods/ReVanced Auto Accept.tmod",
-      "sha1": "D992913F00FCD589F57FE0532378640CAF446C4D",
-      "size": 273500,
+      "sha1": "8BB0217CCABF9800FBFCF8168D6EFAC1343E7B12",
+      "size": 273871,
       "files": [
         "ui/cornerstone.swf",
         "ui/messagedialog.swf"
@@ -225,12 +225,12 @@
       "public": true,
       "screens_es": "Hoja de personaje y gemas",
       "screens_en": "Character sheet and gems",
-      "desc_es": "Todos tus stats a la vez y el coeficiente que el juego no enseña; en las gemas, cómo de buena es cada tirada. Guarda nombre, PR y mastery para las tarjetas del launcher.",
-      "desc_en": "All your stats at once and the coefficient the game hides; on gems, how good each roll is. Saves name, PR and mastery for the launcher cards.",
+      "desc_es": "Todos tus stats a la vez y el coeficiente que el juego no enseña; en las gemas, cómo de buena es cada tirada. Guarda nombre, PR y mastery de cada personaje para las tarjetas del launcher (también con dos cuentas abiertas a la vez).",
+      "desc_en": "All your stats at once and the coefficient the game hides; on gems, how good each roll is. Saves each character's name, PR and mastery for the launcher cards (also with two accounts open at once).",
       "stats": true,
       "file": "mods/ReVanced Charsheet.tmod",
-      "sha1": "697842EE305DEC4797DADBA0EB582547795B3BEA",
-      "size": 305234,
+      "sha1": "6BF993420279EE5A6FB3AC0959C1EDCB5402E2FE",
+      "size": 305274,
       "files": [
         "ui/charsheet.swf",
         "ui/gems.swf",
