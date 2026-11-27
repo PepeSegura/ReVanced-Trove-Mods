@@ -44,6 +44,27 @@
       "cfg_sha1": "886F71D8E44DE1048D8325E62D9CE2EA34065A3A"
     },
     {
+      "title": "ReVanced Friend List",
+      "old": [
+        "Redesigned Friend List"
+      ],
+      "public": true,
+      "screens_es": "Lista de amigos",
+      "screens_en": "Friend list",
+      "desc_es": "Lista de amigos con favoritos arriba, botón Unirse siempre disponible, candado por amigo para las invitaciones de grupo (normal, aceptar o rechazar) y buscador por chat.",
+      "desc_en": "Friend list with favourites on top, the Join button always available, a lock per friend for party invites (normal, accept or decline) and chat search.",
+      "stats": false,
+      "file": "mods/ReVanced Friend List.tmod",
+      "sha1": "9504994DA6330196D64A16C0A99A671259C9EAF7",
+      "size": 81951,
+      "files": [
+        "ui/friendslist.swf"
+      ],
+      "cfg": "cfgs/ReVanced Friend List.cfg",
+      "cfg_sha1": "DDA053A7BBB8F0DAF6993840DE92DC0CEFFEED74",
+      "preview": "previews/revanced_friend_list.png"
+    },
+    {
       "title": "ReVanced Tooltip",
       "old": [
         "Redesigned Tooltip"
@@ -283,6 +304,101 @@
       "cfg": "cfgs/ReVanced Delve Chunks.cfg",
       "cfg_sha1": "D9D2FDAC11913137E015E3095751D79477D7BD8C",
       "preview": "previews/revanced_delve_chunks.png"
+    }
+  ],
+  "features": [
+    {
+      "title_en": "PR and class on account cards",
+      "title_es": "PR y clase en las tarjetas",
+      "desc_en": "Each account card shows its max PR, class and level. Any one of these mods saves them while you play; if you have none, the launcher installs its own Stats HUD before the game opens.",
+      "desc_es": "La tarjeta de cada cuenta muestra su PR máximo, clase y nivel. Basta con uno de estos mods, que los guarda mientras juegas; si no tienes ninguno, el launcher instala su propio Stats HUD antes de abrir el juego.",
+      "needs": [
+        [
+          "ReVanced Player HUD",
+          "ReVanced Charsheet",
+          "ReVanced Stats HUD",
+          "ReVanced Stats Sheet"
+        ]
+      ]
+    },
+    {
+      "title_en": "Name and mastery on cards",
+      "title_es": "Nombre y mastery en las tarjetas",
+      "desc_en": "Your character's name and mastery level, read when you open the character sheet (C). It also keeps the stats of two accounts open at the same time apart.",
+      "desc_es": "El nombre de tu personaje y tu nivel de mastery, que se leen al abrir la hoja de personaje (C). También mantiene separados los stats de dos cuentas abiertas a la vez.",
+      "needs": [
+        [
+          "ReVanced Charsheet",
+          "ReVanced Stats Sheet"
+        ]
+      ]
+    },
+    {
+      "title_en": "Inventory search from the chat",
+      "title_es": "Buscar en el inventario desde el chat",
+      "desc_en": "Click the inventory's magnifier and type in the chat: the inventory filters as you type and jumps to the right tab.",
+      "desc_es": "Pulsa la lupa del inventario y escribe en el chat: el inventario se filtra mientras escribes y salta a la pestaña correcta.",
+      "needs": [
+        [
+          "ReVanced Inventory"
+        ],
+        [
+          "ReVanced Chat"
+        ]
+      ]
+    },
+    {
+      "title_en": "Friend list search from the chat",
+      "title_es": "Buscar amigos desde el chat",
+      "desc_en": "Click the friend list's magnifier and type in the chat to filter your friends by name.",
+      "desc_es": "Pulsa la lupa de la lista de amigos y escribe en el chat para filtrar a tus amigos por nombre.",
+      "needs": [
+        [
+          "ReVanced Friend List"
+        ],
+        [
+          "ReVanced Chat"
+        ]
+      ]
+    },
+    {
+      "title_en": "Auto-accept party invites per friend",
+      "title_es": "Aceptar invitaciones de grupo por amigo",
+      "desc_en": "The lock on each friend in the friend list (normal, accept or decline) decides what Auto Accept does with their party invites.",
+      "desc_es": "El candado de cada amigo en la lista de amigos (normal, aceptar o rechazar) decide qué hace Auto Accept con sus invitaciones de grupo.",
+      "needs": [
+        [
+          "ReVanced Auto Accept"
+        ],
+        [
+          "ReVanced Friend List"
+        ]
+      ]
+    },
+    {
+      "title_en": "Item icon in tooltips",
+      "title_es": "Icono del objeto en las descripciones",
+      "desc_en": "Item tooltips show the picture of the item. The bottom bar is what sends the icon to the tooltip.",
+      "desc_es": "Las descripciones de los objetos muestran la imagen del objeto. La barra inferior es la que manda el icono a la descripción.",
+      "needs": [
+        [
+          "ReVanced Tooltip"
+        ],
+        [
+          "ReVanced Hotbar"
+        ]
+      ]
+    },
+    {
+      "title_en": "Delve rooms on the map",
+      "title_es": "Salas de la delve en el mapa",
+      "desc_en": "Each delve room is numbered as you walk in, on the corner panel and on the world map. Replaces Zakros UI - Compass and Zakros UI - Map and Minimap.",
+      "desc_es": "Cada sala de la delve se numera al entrar, en el panel de la esquina y en el mapa del mundo. Sustituye a Zakros UI - Compass y Zakros UI - Map and Minimap.",
+      "needs": [
+        [
+          "ReVanced Delve Chunks"
+        ]
+      ]
     }
   ]
 }

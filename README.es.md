@@ -12,6 +12,7 @@ Mods de interfaz para Trove, que instala y actualiza [ReVanced Trove Launcher](h
 |---|---|---|
 | ReVanced Inventory | Inventario y cofres | Inventario y cofres con estilo de tarjeta. Botón de ordenar también en los cofres, buscador (escribe en el chat) que salta a la pestaña correcta y clic derecho para guardar en el cofre. |
 | ReVanced Chat | Chat | Chat con emojis y pestañas. Con el buscador del inventario o de la lista de amigos abierto, lo que escribes en el chat filtra esa ventana (o /bus texto). |
+| ReVanced Friend List | Lista de amigos | Lista de amigos con favoritos arriba, botón Unirse siempre disponible, candado por amigo para las invitaciones de grupo (normal, aceptar o rechazar) y buscador por chat. |
 | ReVanced Tooltip | Descripción de objetos | Descripción de objetos en una tarjeta clara: stats, habilidad, icono del objeto y comparación con lo que llevas puesto, en el idioma del juego. Los allies muestran la XP. |
 | ReVanced Loot Collector | Recolector de botín | Botón «Keep new»: los objetos que aún no tienes en tu colección se bloquean para que «Collect All» no los convierta. |
 | ReVanced Tiny Quest | Tiny Quest | La mesa de misiones y el panel de Tiny Quest muestran la XP que gana cada ally con la misión y si sube de nivel. |
